@@ -4,10 +4,12 @@ A personal project that tracks my personal investments and scrapes the internet 
 The idea of this project is to evaluate and compare different securities and cryptocurrencies with each other and find good sources of investments
 through the concept of value investing. The entire information is scraped using functions in Google Sheets and Google Script due to its interactivity
 with Google Finance API. Additional functions in Google Sheets (IMPORTHTML and IMPORTXML) are used to supplement additional data by scraping
-information that is not found in Google Finance from other financial tracking websites.
+information that is not found in Google Finance from other financial tracking websites. A Jupyter Notebook containing the fbprophet module is used to
+forecast future prices of any security in the Google Finance API database.
 
-Potential idea expansion: Apply ML techniques to do some form of technical analysis to predict future value, Monte Carlo simulation and solver analysis
-to apply the CAPM model to find best portfolio combination with highest potential returns and lowest risk (variance).
+Potential idea expansion: Apply other ML models like Linear Regression, SVM, Random Forest etc to do some form of technical analysis to predict future 
+value (other than prices), Monte Carlo simulation and solver analysis to apply the CAPM model to find best portfolio combination with highest potential 
+returns and lowest risk (variance).
 
 <b>Websites Scraped:</b>
 <ol>
