@@ -66,11 +66,14 @@ to apply the CAPM model to find best portfolio combination with highest potentia
 <h3>Specific Security Historical Data</h3>
 <ul>
     <li><b>URL:</b> https://docs.google.com/spreadsheets/d/1urDssKdHILGDmiq0t73WDQ6UpOyMQ5kUhSggMdn4oBc/edit?usp=sharing</li>
-    <li><b>Description:</b> This Google Sheet scrapes the Google Finance API for any security in its database and pulls the historical closing prices of that security for the past 5 years or from any date I desire. This sheet is used in conjunction with the Time Series Analysis using fbprophet jupyter notebook to forecast future prices of any security.</li>
+    <li><b>Description:</b> This Google Sheet scrapes the Google Finance API for any security in its database and pulls the historical closing prices of that 
+    security for the past 5 years or from any date I desire. This sheet is used in conjunction with the Time Series Analysis using fbprophet jupyter notebook 
+    to forecast future prices of any security.</li>
 </ul>
 
 <h2>Jupyter Notebooks</h2>
 <h3>Machine Learning Analysis</h3>
 <ul>
-    <li><b>Time-series Analysis using fbprophet.ipynb:</b> A notebook that utilizes the fbprophet library to forecast future data on a security based on its historical data, taking into account seasonality in the calculations.</li>
+    <li><b>Time-series Analysis using fbprophet.ipynb:</b> A notebook that utilizes the fbprophet library to forecast future data on a security based on its 
+    historical data, taking into account seasonality in the calculations.</li>
 </ul>
