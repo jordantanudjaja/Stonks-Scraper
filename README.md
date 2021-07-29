@@ -27,7 +27,7 @@ returns and lowest risk (variance).
 </ol>    
 
 <h2>Google Sheets</h2>
-<h3>Portfolio Tracker</h3>
+<h3><a href="https://docs.google.com/spreadsheets/d/1xHJSsDsQEu_YvFmtNnefFBv3l1AatDd34L3f9680ehw/edit?usp=sharing">Portfolio Tracker</a></h3>
 <ul>
     <li><b>URL:</b> <a href="https://docs.google.com/spreadsheets/d/1xHJSsDsQEu_YvFmtNnefFBv3l1AatDd34L3f9680ehw/edit?usp=sharing">Portfolio Tracker</a></li>
     <li><b>Description:</b> This Google Sheet tracks my personal investments and contains the overall portfolio summary (with data visualizations) and
