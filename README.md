@@ -28,12 +28,9 @@ returns and lowest risk (variance).
 
 <h2>Google Sheets</h2>
 <h3><a href="https://docs.google.com/spreadsheets/d/1xHJSsDsQEu_YvFmtNnefFBv3l1AatDd34L3f9680ehw/edit?usp=sharing">Portfolio Tracker</a></h3>
-<ul>
-    <li><b>URL:</b> <a href="https://docs.google.com/spreadsheets/d/1xHJSsDsQEu_YvFmtNnefFBv3l1AatDd34L3f9680ehw/edit?usp=sharing">Portfolio Tracker</a></li>
-    <li><b>Description:</b> This Google Sheet tracks my personal investments and contains the overall portfolio summary (with data visualizations) and
+    <p><b>Description:</b> This Google Sheet tracks my personal investments and contains the overall portfolio summary (with data visualizations) and
     the ledger that contains my buying and selling transactions. This sheet also has a Google Script attached to it that automates my position
-    for each security and cryptocurrency every time I update the sheet with a new transaction.</li>
-</ul>
+    for each security and cryptocurrency every time I update the sheet with a new transaction.</p>
 <h3>Stocks Watchlist</h3>
 <ul>
     <li><b>URL:</b> <a href="https://docs.google.com/spreadsheets/d/14-HaYDTdRZCm35_TGx1MhRNTvZ4pdAkWsvSeFonsn8k/edit?usp=sharing">Stocks Watchlist</a></li>
