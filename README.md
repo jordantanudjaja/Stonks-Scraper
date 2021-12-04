@@ -8,7 +8,7 @@ information that is not found in Google Finance from other financial tracking we
 forecast future prices of any security or cryptocurrency in the Yahoo Finance API database.
 
 Potential idea expansion: Apply other ML models like Linear Regression, SVM, Random Forest etc to do some form of technical analysis to predict future
-value (other than prices), Monte Carlo simulation and solver analysis to apply the CAPM model to find best portfolio combination with highest potential
+value (other than prices), Monte Carlo simulation and solver analysis to apply the CAPM model to find the best investment portfolio with highest potential
 returns and lowest risk (variance).
 
 <b>Websites Scraped:</b>
