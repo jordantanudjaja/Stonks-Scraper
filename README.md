@@ -58,13 +58,15 @@ returns and lowest risk (variance).
 <ul>
     <li><b>Description:</b> This Google Sheet scrapes information about a company's financial statements and calculates its intrinsic value based on certain
     assumptions through various models (DCF, DDM, and EPS). The purpose of this sheet is to determine the valuation of a stock based on a reasonable
-    margin of safety and help me decide if a particular stock is a good buy or not.</li>
+    margin of safety and help me decide if a particular stock is a good buy or not. This sheet is used in conjunction with the Technical Analysis Dashboard to
+    determine if and when a stock is a good buy.</li>
 </ul>
-<h3><a href="https://docs.google.com/spreadsheets/d/1urDssKdHILGDmiq0t73WDQ6UpOyMQ5kUhSggMdn4oBc/edit?usp=sharing">Specific Security Historical Data</a></h3>
+<h3><a href="https://docs.google.com/spreadsheets/d/1urDssKdHILGDmiq0t73WDQ6UpOyMQ5kUhSggMdn4oBc/edit?usp=sharing">Technical Analysis Dashboard</a></h3>
 <ul>
-    <li><b>Description:</b> This Google Sheet scrapes the Google Finance API for any security in its database and pulls the historical closing prices of that
-    security for the past 5 years or from any date I desire. This sheet is used in conjunction with the Time Series Analysis using fbprophet jupyter notebook
-    to forecast future prices of any security if pandas_datareader failed to scrape data from Yahoo Finance.</li>
+    <li><b>Description:</b> This Google Sheet scrapes the Google Finance API for any security in its database and pulls the historical price and volume of that
+    security from any time period and calculates various technical indicators that is then mapped into charts in a dashboard. The purpose of this sheet is to
+    determine optimal buy and sell signals for a certain security and is used in conjunction with the Fundamental Analysis Calculator to determine if and when
+    a stock is a good buy.</li>
 </ul>
 
 <h2>Jupyter Notebooks</h2>
