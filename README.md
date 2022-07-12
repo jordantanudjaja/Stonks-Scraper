@@ -7,9 +7,8 @@ with Google Finance API. Additional functions in Google Sheets (IMPORTHTML and I
 information that is not found in Google Finance from other financial tracking websites. A Jupyter Notebook containing the fbprophet library is used to
 forecast future prices of any security or cryptocurrency in the Yahoo Finance API database.
 
-Potential idea expansion: Apply other ML models like Linear Regression, SVM, Random Forest etc to do some form of technical analysis to predict future
-value (other than prices), Monte Carlo simulation and solver analysis to apply the CAPM model to find the best investment portfolio with highest potential
-returns and lowest risk (variance).
+Potential idea expansion: Apply other ML models like Linear Regression, SVM, Random Forest etc to predict future value, Monte Carlo simulation and solver
+analysis to graph the Efficient Frontier and find the best investment portfolio with highest potential returns and lowest risk via the Sharpe Ratio.
 
 <b>Websites Scraped:</b>
 <ol>
